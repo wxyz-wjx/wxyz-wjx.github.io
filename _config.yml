@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
+title: Pr Project
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://wxyz-wjx.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /a.jpg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: wxyz-wjx
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: wxyz-wjx
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/wxyz-wjx
+    - https://github.com/wxyz-wjx
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: wxyz-wjx
+  url: https://github.com/wxyz-wjx/wxyz-wjx.github.io
+  email: 2395666562@gmail.com
